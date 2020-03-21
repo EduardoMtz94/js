@@ -18,3 +18,7 @@ console.log(nombre.length);
 //Concatenar 
 var textoTotal = texto1.concat(" "+texto2);
 console.log(textoTotal);
+
+//busqueda
+var busqueda = texto1.indexOf("curso");
+console.log(busqueda);
